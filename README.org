@@ -1,0 +1,10 @@
+* exponential-backoff
+
+An implementation of the exponential backoff algorithm in Common Lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/death/exponential-backoff.git   |
+| commit  | 8d9e844  |
+| systems | exponential-backoff |
+|---------+-------------------------------------------|
+
